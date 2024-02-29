@@ -1,4 +1,4 @@
-	A MIPS processor designed during the 3rd year at the Structure of Computer Systems project laboratory.
+  A MIPS processor designed during the 3rd year at the Structure of Computer Systems project laboratory.
 
   Besides the basic MIPS design and implementation, additional units were added. One for the detections of hazards and one for the prediction of branches.
 
